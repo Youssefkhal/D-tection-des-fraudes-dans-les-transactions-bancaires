@@ -1,0 +1,1001 @@
+Montant,Heure,Type de paiement,Pays d'origine,Appareil utilisé,Tentatives de connexion,Localisation IP,is_fraud
+690.23,07:22,Virement,États-Unis,ATM,3,Paris,0
+16283.46,19:39,Cryptomonnaie,Maroc,Mobile,1,São Paulo,0
+13670.64,01:44,Cryptomonnaie,Chine,Mobile,2,Rabat,1
+12057.3,05:46,Cryptomonnaie,États-Unis,Tablette,4,New York,0
+14258.65,11:50,Virement,Brésil,Ordinateur,2,New York,0
+14933.83,21:17,Espèces,Chine,Mobile,2,Pékin,0
+18859.56,11:55,Carte bancaire,France,ATM,2,Rabat,0
+10492.17,21:10,En ligne,France,ATM,4,Pékin,0
+3971.95,14:35,Virement,États-Unis,Mobile,4,Pékin,0
+9405.95,11:58,Espèces,Brésil,ATM,3,Rabat,1
+848.43,01:11,En ligne,Brésil,Tablette,4,Pékin,0
+15814.85,14:36,Cryptomonnaie,Brésil,Ordinateur,3,Casablanca,0
+12071.11,01:13,Virement,France,Mobile,3,New York,0
+10387.31,14:56,Espèces,France,Tablette,2,Casablanca,0
+5153.95,16:19,Cryptomonnaie,Chine,Tablette,1,Casablanca,0
+8012.41,20:22,Cryptomonnaie,États-Unis,ATM,2,São Paulo,0
+12015.25,17:16,En ligne,Maroc,Tablette,2,New York,0
+8904.26,22:27,Espèces,Maroc,ATM,2,New York,0
+8557.0,05:17,En ligne,France,ATM,1,Paris,0
+13720.44,19:59,Carte bancaire,États-Unis,ATM,5,Casablanca,1
+11873.35,10:47,En ligne,Chine,ATM,1,Rabat,0
+8746.42,04:48,Espèces,Brésil,Mobile,2,Paris,0
+6632.96,18:54,Carte bancaire,Maroc,Mobile,1,Rabat,0
+7690.92,18:44,Virement,Chine,Mobile,2,New York,0
+13540.01,08:48,Cryptomonnaie,Maroc,Ordinateur,1,Paris,1
+11755.98,13:39,Virement,Maroc,Mobile,5,Rabat,0
+3001.47,14:54,Virement,États-Unis,ATM,5,Pékin,0
+2218.33,20:15,Espèces,France,ATM,3,Rabat,0
+4751.92,20:26,En ligne,France,Mobile,4,Paris,0
+5064.72,15:18,Carte bancaire,France,Ordinateur,4,Rabat,0
+15763.15,00:48,Carte bancaire,États-Unis,Mobile,5,Rabat,1
+19560.81,14:07,Cryptomonnaie,Maroc,Mobile,1,Casablanca,0
+17332.83,15:28,Virement,Maroc,Tablette,1,Pékin,0
+17678.8,06:18,Cryptomonnaie,États-Unis,ATM,3,Pékin,0
+9564.33,20:01,Cryptomonnaie,Chine,Tablette,3,Paris,0
+2587.47,02:39,Carte bancaire,France,ATM,4,São Paulo,0
+13792.92,18:22,Espèces,Chine,ATM,5,Paris,0
+17072.45,05:23,Cryptomonnaie,Chine,Ordinateur,1,Rabat,0
+16760.89,09:27,En ligne,États-Unis,Tablette,2,New York,0
+11688.29,19:02,Cryptomonnaie,Maroc,ATM,2,Rabat,0
+11856.22,11:40,En ligne,France,Mobile,2,Rabat,0
+4375.8,02:17,Cryptomonnaie,États-Unis,Ordinateur,5,Pékin,0
+18220.81,22:31,Carte bancaire,Brésil,Ordinateur,5,Paris,0
+9139.19,07:12,Espèces,Chine,Tablette,2,Paris,0
+13357.95,04:12,Virement,Chine,Mobile,3,Casablanca,0
+9434.81,06:08,Virement,Maroc,Mobile,5,São Paulo,0
+13598.46,17:39,Cryptomonnaie,Brésil,Mobile,1,Casablanca,0
+10958.82,23:00,En ligne,Chine,ATM,3,New York,0
+1867.46,16:42,En ligne,États-Unis,Tablette,3,New York,0
+7697.16,02:12,En ligne,Chine,Ordinateur,1,São Paulo,0
+5849.27,16:27,Cryptomonnaie,Brésil,Ordinateur,1,Rabat,0
+16598.81,09:48,Espèces,Chine,Ordinateur,3,Casablanca,0
+10673.97,01:20,Cryptomonnaie,États-Unis,Mobile,1,Rabat,1
+17025.85,21:24,Carte bancaire,France,Mobile,3,Paris,0
+15310.64,21:25,Cryptomonnaie,France,Mobile,3,Rabat,1
+4225.68,09:25,Virement,Chine,Ordinateur,3,New York,0
+19905.71,00:01,Espèces,États-Unis,Tablette,1,São Paulo,0
+12275.31,08:45,Carte bancaire,Brésil,Ordinateur,3,New York,1
+18999.85,23:15,En ligne,France,Tablette,3,Pékin,0
+5677.91,20:00,Virement,France,Tablette,3,Casablanca,0
+4835.77,15:39,Carte bancaire,France,ATM,4,Pékin,0
+16237.92,22:09,Espèces,États-Unis,Ordinateur,3,Paris,0
+1384.42,22:24,Cryptomonnaie,Chine,Tablette,3,Pékin,0
+19525.77,14:24,Virement,Chine,ATM,3,Paris,0
+16997.15,12:04,Virement,Chine,ATM,3,Paris,0
+1896.55,08:38,Carte bancaire,Chine,Ordinateur,5,New York,0
+13302.72,23:14,Espèces,Brésil,Tablette,5,Paris,0
+1898.24,15:37,Espèces,États-Unis,Tablette,1,Paris,0
+14962.51,21:16,Carte bancaire,France,Ordinateur,4,New York,0
+8629.82,12:06,Carte bancaire,Chine,ATM,3,New York,0
+19732.82,14:43,Carte bancaire,Brésil,Mobile,3,São Paulo,0
+4003.66,21:03,En ligne,États-Unis,ATM,1,São Paulo,0
+4447.7,08:33,Carte bancaire,Maroc,ATM,2,Paris,0
+19497.89,13:37,Espèces,Maroc,Tablette,3,Pékin,0
+2348.33,09:41,Virement,France,Mobile,5,São Paulo,0
+5053.15,02:43,Cryptomonnaie,Maroc,Tablette,5,Rabat,0
+10715.96,20:30,En ligne,États-Unis,ATM,5,Pékin,0
+15603.96,07:59,Carte bancaire,Chine,ATM,1,New York,0
+4324.86,17:48,En ligne,Brésil,ATM,3,São Paulo,0
+3277.01,20:54,Espèces,États-Unis,Tablette,1,New York,0
+7461.2,18:35,Cryptomonnaie,Chine,Tablette,5,São Paulo,1
+4952.82,05:47,Virement,Brésil,Ordinateur,1,Paris,0
+8621.55,23:31,Cryptomonnaie,Chine,Tablette,5,São Paulo,0
+10958.9,19:13,Carte bancaire,Brésil,Ordinateur,5,Pékin,0
+8572.05,13:36,En ligne,Brésil,Mobile,5,Rabat,0
+19371.73,23:47,Cryptomonnaie,Brésil,Tablette,3,Rabat,0
+7358.82,16:04,Espèces,Chine,Tablette,2,Pékin,0
+11691.1,20:01,Espèces,Maroc,Ordinateur,4,Paris,0
+19941.78,17:05,Carte bancaire,Brésil,Ordinateur,5,Pékin,0
+4287.5,11:08,Carte bancaire,Brésil,Tablette,1,Casablanca,0
+2779.18,00:59,Cryptomonnaie,Chine,Tablette,5,Pékin,0
+5657.3,09:19,Cryptomonnaie,États-Unis,ATM,4,Paris,0
+14531.23,08:41,Virement,États-Unis,ATM,1,Rabat,0
+740.03,08:10,En ligne,États-Unis,ATM,2,Casablanca,0
+17064.16,06:54,Carte bancaire,États-Unis,Tablette,1,Rabat,0
+17395.57,14:26,Espèces,Brésil,ATM,5,Rabat,0
+1906.14,22:55,Carte bancaire,États-Unis,Tablette,4,Paris,0
+6441.23,07:22,Virement,Maroc,Tablette,1,Rabat,0
+13533.57,16:08,Espèces,Maroc,ATM,1,Paris,0
+13292.08,05:42,Espèces,France,Tablette,3,São Paulo,0
+6045.65,02:41,Cryptomonnaie,Brésil,Mobile,5,Casablanca,0
+16824.12,18:17,En ligne,France,Tablette,3,Rabat,0
+18504.38,19:08,Carte bancaire,Maroc,Tablette,5,Rabat,1
+1825.12,00:42,Carte bancaire,Brésil,Mobile,1,São Paulo,0
+1881.65,15:17,En ligne,Brésil,Tablette,3,São Paulo,1
+4383.29,15:51,Carte bancaire,Maroc,Tablette,1,Paris,0
+7628.3,21:29,Carte bancaire,Maroc,ATM,1,New York,0
+6264.31,16:34,Carte bancaire,États-Unis,ATM,3,São Paulo,0
+8235.25,05:31,Carte bancaire,France,Ordinateur,5,New York,0
+279.56,03:54,Cryptomonnaie,Maroc,Tablette,1,Pékin,0
+3737.12,23:32,Cryptomonnaie,États-Unis,ATM,2,Casablanca,0
+2038.27,14:26,Virement,Maroc,Mobile,1,Paris,1
+5856.89,14:15,Espèces,Brésil,Ordinateur,3,New York,0
+13404.6,17:17,Virement,Maroc,ATM,1,São Paulo,0
+9498.68,07:29,Cryptomonnaie,États-Unis,Ordinateur,3,New York,0
+9801.75,09:59,Espèces,Brésil,Mobile,4,São Paulo,0
+18346.82,12:16,En ligne,États-Unis,Ordinateur,3,São Paulo,0
+16401.06,14:43,Carte bancaire,Brésil,Ordinateur,2,Paris,1
+10324.74,18:54,En ligne,Chine,Ordinateur,1,São Paulo,0
+12507.96,20:49,Espèces,Brésil,Tablette,2,Rabat,0
+4688.56,11:12,Carte bancaire,France,Mobile,4,Casablanca,1
+9787.56,16:05,Virement,Chine,Tablette,1,Pékin,0
+10057.99,18:35,Espèces,France,ATM,1,New York,0
+13357.35,20:57,Virement,Brésil,Ordinateur,2,Paris,0
+19614.69,17:40,Carte bancaire,Maroc,Mobile,1,Paris,0
+9157.32,17:44,En ligne,France,ATM,4,Casablanca,1
+8905.72,06:25,Carte bancaire,France,Tablette,2,Casablanca,0
+15013.8,14:27,Cryptomonnaie,Chine,Tablette,3,Paris,0
+11488.66,12:00,En ligne,France,Tablette,5,Paris,0
+6112.7,04:05,Espèces,États-Unis,ATM,5,Pékin,0
+11540.86,02:13,Carte bancaire,France,Mobile,4,Rabat,0
+12866.23,22:08,Cryptomonnaie,Maroc,Tablette,1,Casablanca,0
+3584.3,18:50,Carte bancaire,Brésil,Mobile,5,São Paulo,0
+14303.16,22:26,Carte bancaire,Brésil,ATM,1,Casablanca,0
+4539.18,18:17,Carte bancaire,Maroc,Ordinateur,2,São Paulo,0
+17857.54,04:49,Espèces,Maroc,Ordinateur,5,Rabat,0
+12438.89,18:18,Carte bancaire,États-Unis,Ordinateur,2,Pékin,0
+10230.93,21:09,En ligne,Chine,Mobile,5,Casablanca,0
+451.49,07:37,En ligne,France,Mobile,1,Casablanca,0
+19334.22,21:57,Virement,France,ATM,1,São Paulo,1
+14633.49,11:06,Carte bancaire,Chine,Tablette,1,Pékin,0
+6603.61,10:38,Cryptomonnaie,Brésil,Mobile,4,Pékin,0
+12811.53,03:15,En ligne,Chine,Tablette,4,Rabat,0
+1001.31,11:40,En ligne,France,Tablette,4,São Paulo,0
+4380.62,20:54,En ligne,Chine,Tablette,1,Paris,0
+3480.53,17:01,Cryptomonnaie,Chine,ATM,4,Rabat,1
+13568.08,11:50,Cryptomonnaie,Maroc,ATM,2,Pékin,0
+12212.82,18:24,Virement,Maroc,Mobile,2,Pékin,0
+10350.24,13:14,Carte bancaire,États-Unis,Ordinateur,4,São Paulo,1
+13956.59,05:59,En ligne,États-Unis,ATM,1,Rabat,0
+7708.95,09:34,Carte bancaire,France,Ordinateur,5,Paris,0
+15465.05,23:59,En ligne,Brésil,Mobile,1,New York,0
+17448.99,08:49,Carte bancaire,Maroc,Tablette,4,São Paulo,0
+15501.11,22:24,Espèces,Brésil,ATM,4,Rabat,0
+17115.97,04:30,En ligne,Maroc,ATM,4,Rabat,0
+3765.22,13:38,Virement,Chine,Tablette,1,Casablanca,0
+19044.53,17:50,Espèces,France,Tablette,4,Pékin,0
+12162.32,15:09,En ligne,Brésil,Tablette,2,Pékin,0
+13229.42,18:26,Espèces,Chine,Tablette,2,Rabat,0
+14573.44,01:30,Virement,Chine,Mobile,5,Pékin,0
+19440.94,11:55,Cryptomonnaie,Chine,Tablette,5,Pékin,0
+363.53,14:24,Espèces,Maroc,Ordinateur,1,Rabat,1
+17674.05,01:07,Cryptomonnaie,Brésil,ATM,2,New York,0
+7293.3,05:44,En ligne,France,Tablette,2,New York,0
+7694.13,17:57,Carte bancaire,Chine,Mobile,5,New York,0
+14385.09,06:38,Carte bancaire,Brésil,Mobile,5,Casablanca,0
+14575.57,08:13,En ligne,Chine,Ordinateur,1,Pékin,0
+8698.68,04:30,Carte bancaire,France,Ordinateur,3,Pékin,0
+18649.08,04:12,Carte bancaire,Maroc,Tablette,5,Casablanca,1
+9331.75,14:27,Espèces,Maroc,Mobile,1,Casablanca,1
+10165.63,09:04,En ligne,Maroc,ATM,3,Pékin,1
+1784.22,05:06,En ligne,Maroc,Tablette,2,Paris,0
+4257.28,15:06,Carte bancaire,Maroc,Tablette,1,Rabat,0
+17554.21,15:06,Carte bancaire,Chine,Tablette,3,New York,1
+4954.02,20:21,Cryptomonnaie,Chine,Tablette,3,Paris,0
+11990.7,08:22,Cryptomonnaie,Chine,Ordinateur,5,New York,0
+19162.7,11:13,En ligne,Brésil,Tablette,4,Pékin,0
+13528.03,00:14,Espèces,Chine,Ordinateur,1,Pékin,0
+13461.24,06:08,Cryptomonnaie,Chine,Ordinateur,1,Casablanca,0
+16244.33,22:30,Carte bancaire,Brésil,Ordinateur,2,São Paulo,0
+18611.17,14:22,Virement,États-Unis,Mobile,4,São Paulo,0
+14523.84,06:46,Cryptomonnaie,États-Unis,Ordinateur,2,Paris,0
+10195.19,02:31,Espèces,États-Unis,Tablette,4,São Paulo,1
+12918.57,23:06,Virement,Chine,ATM,4,São Paulo,0
+1767.86,18:56,Cryptomonnaie,Maroc,Mobile,4,Casablanca,0
+11532.33,20:35,Carte bancaire,États-Unis,ATM,4,Paris,0
+9199.44,07:31,Virement,Chine,Tablette,4,Paris,0
+14377.83,06:21,En ligne,Maroc,Tablette,5,Casablanca,0
+13394.99,01:34,Cryptomonnaie,Chine,Mobile,4,Paris,0
+13816.01,18:04,Carte bancaire,États-Unis,Ordinateur,3,Paris,0
+5248.45,14:56,Carte bancaire,Maroc,Ordinateur,4,Rabat,0
+13770.46,16:58,Espèces,États-Unis,ATM,5,Paris,0
+8260.92,16:38,Espèces,France,ATM,2,Pékin,1
+5265.02,04:07,Cryptomonnaie,France,ATM,2,Pékin,0
+7352.48,23:11,Cryptomonnaie,Chine,Tablette,3,Pékin,1
+6197.17,19:16,Virement,États-Unis,ATM,5,New York,0
+8124.25,19:50,Cryptomonnaie,Brésil,ATM,3,São Paulo,0
+13974.78,08:19,Virement,Maroc,ATM,2,Paris,0
+7176.19,04:18,Cryptomonnaie,Brésil,Ordinateur,5,New York,0
+5457.75,13:35,Espèces,Chine,Tablette,1,São Paulo,1
+16310.55,08:30,En ligne,Maroc,Tablette,2,Casablanca,0
+4506.65,02:47,Virement,Chine,Tablette,2,Paris,0
+2857.83,14:16,Espèces,Chine,Mobile,1,Pékin,0
+17084.06,21:57,En ligne,Chine,Mobile,3,Paris,0
+5080.88,22:22,Espèces,France,ATM,4,Casablanca,0
+5503.1,01:54,Cryptomonnaie,Chine,Ordinateur,2,Casablanca,0
+7835.49,17:01,Virement,Chine,Mobile,1,São Paulo,0
+13997.81,11:11,Espèces,France,Tablette,1,Pékin,1
+8424.13,21:59,Cryptomonnaie,États-Unis,Mobile,1,Rabat,0
+8351.4,18:37,Carte bancaire,Chine,ATM,3,Casablanca,0
+9606.08,20:33,Espèces,États-Unis,Tablette,1,Rabat,0
+17844.1,22:17,Cryptomonnaie,France,Tablette,3,São Paulo,0
+8212.18,02:48,Cryptomonnaie,France,Ordinateur,1,Casablanca,0
+2404.33,11:09,Espèces,France,Tablette,4,Casablanca,0
+8621.36,01:40,Espèces,Brésil,Tablette,3,Rabat,1
+18158.76,21:15,En ligne,États-Unis,Tablette,5,Casablanca,0
+17801.8,03:25,En ligne,Chine,ATM,5,Pékin,0
+588.71,01:26,Virement,Maroc,Ordinateur,5,Pékin,0
+19137.81,12:08,En ligne,États-Unis,Mobile,2,Casablanca,0
+10356.53,01:43,Cryptomonnaie,Chine,Mobile,2,Pékin,0
+3785.18,05:49,En ligne,États-Unis,Ordinateur,1,São Paulo,0
+10112.5,15:36,Cryptomonnaie,États-Unis,Mobile,4,New York,0
+9704.66,20:28,Virement,France,Ordinateur,4,Pékin,0
+8203.4,08:02,Espèces,France,Tablette,2,Paris,1
+3264.41,19:51,Cryptomonnaie,Chine,Ordinateur,1,Casablanca,1
+17070.5,11:33,Carte bancaire,Brésil,Mobile,2,Rabat,0
+10177.46,02:00,En ligne,France,Mobile,2,Casablanca,0
+11608.56,04:58,Virement,Chine,Tablette,4,Casablanca,0
+9016.97,23:43,Carte bancaire,Brésil,Mobile,4,Paris,0
+4067.38,23:34,Carte bancaire,France,ATM,5,São Paulo,0
+11059.8,10:25,Carte bancaire,France,ATM,2,Pékin,0
+1872.02,06:41,En ligne,France,ATM,5,Rabat,0
+18607.77,15:11,Carte bancaire,France,Mobile,5,New York,0
+4796.62,05:01,Espèces,États-Unis,Mobile,5,Rabat,0
+9914.71,22:12,Carte bancaire,France,Ordinateur,5,Casablanca,0
+6249.72,06:12,En ligne,France,Ordinateur,4,New York,1
+12189.41,09:43,En ligne,Chine,Tablette,5,Pékin,1
+14739.87,18:57,Carte bancaire,États-Unis,Ordinateur,2,Rabat,0
+11509.49,13:31,Carte bancaire,Chine,Mobile,2,São Paulo,0
+15267.37,04:59,En ligne,Maroc,Ordinateur,5,Rabat,0
+19918.53,11:48,En ligne,Chine,Ordinateur,2,New York,0
+4881.35,05:34,Virement,États-Unis,Mobile,3,Paris,0
+15610.91,22:54,Carte bancaire,France,Ordinateur,3,Paris,1
+13629.52,14:20,En ligne,Brésil,Mobile,2,São Paulo,0
+4263.22,11:03,Cryptomonnaie,Chine,Ordinateur,5,São Paulo,0
+4121.1,08:36,Cryptomonnaie,Brésil,Ordinateur,4,Pékin,0
+16828.77,23:28,Espèces,Chine,Tablette,4,Casablanca,1
+7096.66,18:55,Carte bancaire,Brésil,Mobile,3,Pékin,0
+1394.58,13:12,En ligne,États-Unis,Mobile,5,Rabat,0
+7766.79,17:10,Espèces,Maroc,Tablette,5,Casablanca,0
+610.86,19:07,Virement,Brésil,Tablette,2,Paris,0
+18246.9,02:13,Carte bancaire,Brésil,ATM,5,Rabat,0
+7980.94,10:59,Virement,États-Unis,Ordinateur,5,New York,0
+2653.7,13:01,En ligne,France,Ordinateur,2,São Paulo,0
+12588.28,03:21,Espèces,États-Unis,ATM,5,Pékin,0
+13405.61,10:22,En ligne,Brésil,Mobile,2,New York,0
+9415.01,15:23,Virement,France,Tablette,2,Casablanca,0
+1479.3,12:38,En ligne,France,Mobile,4,São Paulo,0
+6661.6,23:59,Virement,Brésil,Ordinateur,2,New York,0
+17846.61,12:22,Cryptomonnaie,États-Unis,ATM,5,Paris,0
+9589.15,13:45,Carte bancaire,Maroc,Tablette,1,Casablanca,0
+15330.96,19:22,En ligne,États-Unis,Ordinateur,1,São Paulo,0
+6762.17,12:00,Virement,États-Unis,ATM,3,Rabat,0
+10679.55,08:12,Espèces,Brésil,ATM,2,New York,0
+10552.05,03:35,Virement,Chine,Mobile,1,São Paulo,0
+8681.37,20:20,Virement,France,Ordinateur,3,Rabat,0
+9016.79,04:36,Carte bancaire,France,Ordinateur,2,Rabat,0
+1301.11,08:23,Cryptomonnaie,États-Unis,Mobile,4,São Paulo,0
+3671.22,10:04,Espèces,États-Unis,Tablette,2,Casablanca,0
+12749.06,01:00,Cryptomonnaie,France,ATM,1,São Paulo,0
+8339.78,15:55,En ligne,Maroc,Tablette,1,Rabat,0
+12932.72,08:28,Espèces,États-Unis,Ordinateur,2,New York,0
+4612.56,21:19,Espèces,Maroc,ATM,3,Rabat,0
+11259.27,23:04,Carte bancaire,Chine,ATM,3,São Paulo,0
+7291.73,03:00,Cryptomonnaie,Brésil,Mobile,5,Pékin,0
+10615.0,20:17,Cryptomonnaie,Chine,Ordinateur,1,Rabat,0
+9803.39,03:47,Carte bancaire,États-Unis,Tablette,2,New York,0
+5676.18,09:24,Cryptomonnaie,États-Unis,Mobile,1,Rabat,0
+19853.88,08:11,Espèces,Maroc,ATM,3,Pékin,0
+18334.72,10:40,Espèces,France,Tablette,1,New York,0
+13265.86,00:32,Carte bancaire,Chine,ATM,5,Pékin,0
+8230.05,18:13,Carte bancaire,États-Unis,Ordinateur,2,Rabat,0
+2594.17,16:36,Virement,Chine,ATM,5,Rabat,0
+10813.04,10:20,Espèces,France,ATM,5,Pékin,0
+17710.73,19:25,Virement,Brésil,Ordinateur,4,Paris,0
+326.7,12:09,Virement,Maroc,ATM,4,Paris,0
+18972.44,08:10,Espèces,Chine,Tablette,4,Paris,0
+9879.35,07:06,Cryptomonnaie,États-Unis,Mobile,4,Pékin,0
+472.45,14:09,Virement,États-Unis,Mobile,1,Casablanca,0
+13768.57,10:15,Cryptomonnaie,Chine,Ordinateur,3,Casablanca,0
+9544.37,11:15,En ligne,France,Mobile,5,São Paulo,0
+15245.13,13:44,Cryptomonnaie,Brésil,Tablette,1,Pékin,0
+18831.36,08:37,Virement,France,Tablette,4,São Paulo,0
+9035.08,19:26,Cryptomonnaie,Chine,ATM,3,New York,0
+18439.19,13:33,Carte bancaire,États-Unis,Mobile,3,São Paulo,0
+10246.91,10:35,Virement,Chine,Mobile,4,Rabat,0
+4092.71,12:26,Carte bancaire,Maroc,Mobile,1,Pékin,0
+3250.82,16:38,Cryptomonnaie,Maroc,Ordinateur,1,Pékin,0
+515.02,04:01,En ligne,Brésil,Mobile,3,Casablanca,0
+12760.81,06:22,Virement,Chine,Tablette,1,New York,0
+15850.68,09:41,Virement,États-Unis,Ordinateur,2,São Paulo,0
+16808.28,07:53,Cryptomonnaie,États-Unis,Mobile,1,Rabat,0
+4675.68,07:29,Carte bancaire,France,Mobile,4,Casablanca,0
+12180.16,13:25,Carte bancaire,Brésil,Tablette,4,São Paulo,0
+10917.39,20:23,Virement,Brésil,Mobile,3,Casablanca,0
+5169.97,01:58,Carte bancaire,États-Unis,Mobile,1,Rabat,0
+5460.88,02:24,Espèces,États-Unis,ATM,2,Rabat,0
+5667.16,19:49,Virement,Chine,Tablette,4,Rabat,1
+8022.48,07:51,Cryptomonnaie,États-Unis,Tablette,3,Pékin,0
+18862.34,12:34,En ligne,Chine,Tablette,4,Pékin,0
+17015.36,22:04,Carte bancaire,France,Ordinateur,3,Casablanca,0
+17303.36,08:44,Espèces,Maroc,Mobile,1,Casablanca,0
+2710.01,19:50,En ligne,États-Unis,ATM,1,New York,0
+16619.56,00:52,Espèces,États-Unis,Tablette,2,Pékin,0
+17994.03,03:11,Carte bancaire,Chine,Ordinateur,4,São Paulo,0
+13566.72,14:03,Carte bancaire,Maroc,Tablette,3,Pékin,0
+17455.87,10:53,En ligne,États-Unis,Mobile,1,Rabat,0
+16780.94,00:18,Virement,Chine,Ordinateur,4,Pékin,0
+3531.04,12:54,Carte bancaire,Brésil,Ordinateur,2,Rabat,0
+8266.65,23:56,Espèces,Chine,Ordinateur,3,Paris,0
+19289.01,04:30,Cryptomonnaie,Brésil,ATM,2,Casablanca,0
+374.24,20:12,Virement,Maroc,Mobile,2,New York,0
+13980.11,06:56,Virement,Brésil,Mobile,5,Rabat,0
+3250.19,09:14,Virement,États-Unis,Mobile,5,Paris,0
+16573.53,11:17,Virement,Brésil,Ordinateur,4,Rabat,0
+12151.01,06:55,Virement,France,Mobile,1,Casablanca,0
+8796.74,18:29,En ligne,Brésil,ATM,1,Rabat,1
+8800.7,19:33,Carte bancaire,États-Unis,Ordinateur,5,New York,0
+3126.83,06:57,Cryptomonnaie,Maroc,ATM,4,Pékin,0
+5865.33,18:58,Cryptomonnaie,États-Unis,ATM,3,Paris,0
+9383.59,00:04,Cryptomonnaie,États-Unis,Ordinateur,3,Pékin,0
+7354.16,18:28,Espèces,Chine,Ordinateur,1,Rabat,0
+15603.75,16:36,Espèces,France,ATM,1,Pékin,0
+17128.21,00:32,Carte bancaire,Chine,ATM,5,Pékin,0
+5344.0,13:30,Espèces,Maroc,ATM,1,Pékin,0
+13156.2,06:53,Carte bancaire,États-Unis,Ordinateur,2,New York,0
+8522.56,17:48,Carte bancaire,Chine,Mobile,2,São Paulo,0
+18282.37,10:41,En ligne,Brésil,Ordinateur,3,Pékin,0
+8714.83,15:47,Carte bancaire,Maroc,Ordinateur,3,São Paulo,0
+12445.51,00:50,Carte bancaire,Chine,Tablette,5,New York,0
+14073.98,17:55,Espèces,États-Unis,Tablette,1,Paris,0
+8758.47,03:40,Espèces,Maroc,Tablette,2,Paris,0
+12986.68,21:50,Cryptomonnaie,France,Ordinateur,4,Casablanca,0
+14199.67,09:42,Carte bancaire,Maroc,ATM,3,Casablanca,1
+2129.43,12:08,Virement,États-Unis,ATM,5,Rabat,0
+15796.39,02:15,Virement,France,ATM,3,Pékin,0
+17115.55,17:06,Virement,États-Unis,Tablette,1,São Paulo,0
+16576.74,12:52,Cryptomonnaie,France,ATM,5,Casablanca,0
+11325.42,13:30,Carte bancaire,Chine,ATM,4,New York,1
+12640.74,07:36,En ligne,France,Mobile,1,Rabat,0
+8937.77,06:31,Espèces,États-Unis,ATM,1,São Paulo,0
+10337.12,21:35,Carte bancaire,Chine,Mobile,4,Pékin,0
+2653.98,15:10,Virement,Brésil,Ordinateur,2,Pékin,0
+3786.74,08:16,En ligne,Maroc,Mobile,5,São Paulo,0
+2265.38,04:52,Cryptomonnaie,Maroc,Mobile,3,Casablanca,0
+6180.63,14:44,En ligne,France,Mobile,2,New York,0
+8262.46,10:21,Carte bancaire,États-Unis,ATM,4,Paris,0
+15447.59,05:40,En ligne,Chine,Mobile,1,Paris,0
+19747.12,07:47,Espèces,Brésil,Mobile,2,Rabat,0
+9857.47,18:56,Cryptomonnaie,Maroc,Mobile,1,Pékin,0
+2382.66,14:50,Espèces,États-Unis,Tablette,1,Pékin,0
+16048.13,06:43,Virement,États-Unis,Ordinateur,2,New York,0
+7928.67,21:56,Carte bancaire,États-Unis,Mobile,5,Rabat,0
+2013.79,15:43,En ligne,Chine,Tablette,1,Rabat,0
+15333.58,11:29,Espèces,Maroc,Ordinateur,3,São Paulo,0
+15475.48,18:37,En ligne,Chine,Tablette,4,Pékin,0
+18405.91,09:57,Espèces,Maroc,ATM,4,New York,1
+18968.72,00:01,Virement,Brésil,Mobile,5,São Paulo,0
+18245.48,03:44,Virement,Chine,Ordinateur,4,Rabat,0
+8144.84,07:44,Carte bancaire,Maroc,Ordinateur,2,Paris,0
+15938.82,09:04,Carte bancaire,France,Ordinateur,5,Pékin,1
+9993.34,13:01,Carte bancaire,Brésil,Tablette,5,Rabat,0
+2947.63,00:23,En ligne,Maroc,ATM,4,Rabat,0
+15740.63,10:13,En ligne,États-Unis,Ordinateur,2,Rabat,0
+5649.77,17:35,Espèces,France,Ordinateur,2,New York,0
+11414.98,13:42,Virement,États-Unis,ATM,5,New York,0
+17108.36,10:59,Cryptomonnaie,Brésil,Tablette,2,Pékin,0
+4488.23,01:42,Espèces,Brésil,Ordinateur,3,Paris,0
+2575.4,09:07,Espèces,Maroc,Ordinateur,3,São Paulo,0
+15238.63,16:23,Espèces,Brésil,Tablette,2,São Paulo,0
+4642.59,22:18,En ligne,Brésil,Mobile,4,Rabat,0
+10848.31,09:44,Espèces,Chine,Mobile,3,São Paulo,0
+15761.19,18:09,En ligne,Maroc,Ordinateur,2,Rabat,0
+8090.56,18:36,Espèces,États-Unis,ATM,5,São Paulo,0
+15665.98,14:17,En ligne,France,Ordinateur,1,Rabat,0
+2298.53,10:00,Cryptomonnaie,États-Unis,Ordinateur,2,São Paulo,0
+16121.86,04:18,Cryptomonnaie,France,Mobile,4,New York,0
+13134.04,22:55,Cryptomonnaie,France,Ordinateur,1,Pékin,1
+11457.12,20:03,Espèces,Chine,Mobile,4,Casablanca,0
+11777.53,13:46,Virement,Chine,Tablette,4,Paris,0
+2405.08,08:44,Cryptomonnaie,Maroc,ATM,2,São Paulo,0
+4520.7,06:23,Cryptomonnaie,Maroc,Ordinateur,3,São Paulo,0
+5862.8,10:04,Espèces,France,Ordinateur,2,São Paulo,1
+1764.55,15:58,En ligne,États-Unis,Ordinateur,5,New York,0
+13565.79,12:04,Espèces,Brésil,Tablette,2,New York,0
+1282.87,00:11,Virement,Chine,Mobile,2,New York,0
+3383.44,17:42,Cryptomonnaie,France,ATM,5,New York,0
+8560.39,21:04,En ligne,Chine,Tablette,1,São Paulo,0
+2428.12,15:11,Virement,France,Tablette,1,Pékin,0
+5424.02,20:28,Espèces,Chine,Ordinateur,4,Rabat,0
+6343.65,01:02,En ligne,France,Tablette,2,Casablanca,0
+6527.02,07:44,Espèces,États-Unis,Ordinateur,1,Paris,0
+18796.27,10:05,Cryptomonnaie,Maroc,Tablette,2,Casablanca,0
+13455.4,08:33,Cryptomonnaie,États-Unis,Ordinateur,1,Rabat,0
+19549.99,23:23,Carte bancaire,Brésil,Ordinateur,5,São Paulo,0
+12925.07,02:36,Carte bancaire,États-Unis,Tablette,5,New York,0
+16627.89,20:16,Espèces,Chine,ATM,1,Casablanca,0
+1824.76,06:54,En ligne,France,ATM,3,Casablanca,0
+16748.23,20:48,Virement,Chine,Tablette,5,Casablanca,0
+5102.25,13:57,Carte bancaire,France,Mobile,1,Pékin,0
+9414.11,11:55,Carte bancaire,Chine,Tablette,3,São Paulo,0
+15409.78,15:22,Virement,France,Mobile,4,São Paulo,0
+2843.4,03:44,Carte bancaire,France,Ordinateur,5,Paris,0
+17425.58,14:12,Virement,Brésil,Tablette,4,New York,0
+1758.03,13:56,Cryptomonnaie,Chine,Ordinateur,2,Pékin,0
+16619.25,22:55,Carte bancaire,Chine,ATM,5,Pékin,0
+2407.4,21:17,Cryptomonnaie,États-Unis,ATM,1,Pékin,0
+9817.97,01:39,En ligne,Maroc,Tablette,2,Rabat,0
+10494.98,14:34,Espèces,États-Unis,Ordinateur,5,Rabat,0
+4003.08,00:51,Virement,France,Ordinateur,3,Paris,0
+13738.2,08:53,En ligne,Chine,ATM,2,Pékin,0
+3099.15,13:16,Carte bancaire,Brésil,Ordinateur,2,Casablanca,0
+5691.42,23:52,Espèces,États-Unis,Ordinateur,4,Rabat,0
+2986.76,12:39,Carte bancaire,Brésil,ATM,5,Pékin,0
+10285.8,06:31,Virement,États-Unis,Ordinateur,5,Pékin,1
+1533.92,22:12,Espèces,États-Unis,Ordinateur,1,Pékin,0
+18173.97,19:01,Espèces,Brésil,Tablette,5,Rabat,0
+1450.83,08:20,Cryptomonnaie,États-Unis,ATM,4,New York,0
+10754.17,08:36,Espèces,États-Unis,ATM,4,Pékin,0
+6474.37,13:56,En ligne,États-Unis,Tablette,5,New York,0
+4273.14,04:17,En ligne,Maroc,Mobile,2,New York,0
+15973.06,02:28,Virement,Brésil,Tablette,1,Paris,0
+3162.32,02:00,Cryptomonnaie,Chine,Ordinateur,2,Casablanca,0
+199.05,12:32,Carte bancaire,Brésil,Tablette,3,Casablanca,0
+10924.34,00:47,Cryptomonnaie,Chine,Mobile,3,Pékin,0
+4206.08,22:11,Cryptomonnaie,Maroc,Tablette,5,Pékin,0
+18777.23,13:54,Cryptomonnaie,Maroc,ATM,5,Paris,1
+17461.56,07:36,Espèces,France,Mobile,1,New York,0
+1089.01,10:49,Carte bancaire,France,ATM,1,Pékin,0
+3782.96,23:24,Carte bancaire,Chine,Tablette,1,Paris,0
+11895.56,04:44,Virement,Brésil,ATM,1,Paris,0
+1084.32,16:05,Virement,Maroc,Mobile,2,Paris,0
+15773.57,11:36,Virement,Maroc,ATM,3,Paris,0
+6984.84,19:46,Cryptomonnaie,Maroc,ATM,4,São Paulo,0
+17220.23,22:05,En ligne,Chine,Tablette,3,Rabat,0
+15102.57,11:01,Virement,Brésil,Mobile,3,Pékin,0
+10995.45,18:09,Cryptomonnaie,États-Unis,Tablette,1,New York,0
+5752.1,12:30,Cryptomonnaie,États-Unis,Ordinateur,3,New York,0
+8808.57,05:00,Carte bancaire,États-Unis,ATM,5,São Paulo,0
+5535.51,07:10,Espèces,États-Unis,Ordinateur,1,Pékin,0
+19852.94,13:24,Carte bancaire,France,ATM,1,Pékin,0
+10602.77,00:14,En ligne,Chine,Tablette,3,Casablanca,0
+2317.3,21:15,Carte bancaire,États-Unis,Tablette,4,Paris,0
+3735.56,21:14,Virement,Brésil,Ordinateur,5,New York,0
+15891.6,05:20,Espèces,États-Unis,ATM,3,Paris,0
+17797.61,13:55,Carte bancaire,États-Unis,Tablette,3,Casablanca,0
+8375.95,14:49,Cryptomonnaie,France,Ordinateur,2,São Paulo,0
+3554.73,21:07,Espèces,Brésil,Mobile,5,Rabat,0
+19937.5,17:25,Cryptomonnaie,Brésil,Mobile,1,New York,0
+1732.37,00:48,Espèces,États-Unis,Mobile,5,Rabat,0
+7643.39,16:52,Virement,Chine,ATM,5,São Paulo,0
+8192.97,13:07,Espèces,Brésil,ATM,4,Rabat,0
+1889.35,05:31,Cryptomonnaie,Maroc,Mobile,1,Casablanca,0
+1769.1,23:52,Cryptomonnaie,France,Ordinateur,4,Paris,0
+15328.08,11:24,En ligne,France,ATM,3,New York,0
+2579.23,15:57,Cryptomonnaie,États-Unis,ATM,1,New York,0
+1260.26,08:20,Espèces,Brésil,Mobile,5,Paris,0
+3246.71,08:10,Virement,Brésil,Tablette,2,Pékin,0
+11282.93,07:39,Virement,États-Unis,ATM,3,Casablanca,0
+8060.83,16:36,Cryptomonnaie,Chine,Tablette,1,Pékin,0
+3112.3,22:08,Cryptomonnaie,Brésil,Tablette,1,São Paulo,0
+1226.57,17:05,Cryptomonnaie,Chine,Tablette,1,Casablanca,0
+2652.94,07:50,Cryptomonnaie,Chine,Mobile,2,Casablanca,0
+12518.59,10:59,En ligne,Maroc,Mobile,3,Pékin,0
+10662.82,19:55,Cryptomonnaie,États-Unis,ATM,5,Pékin,0
+3123.11,14:54,Virement,Brésil,Tablette,2,New York,0
+6574.64,10:07,Espèces,France,ATM,4,Rabat,0
+847.66,20:07,Carte bancaire,France,Ordinateur,1,Paris,0
+1614.57,07:35,Espèces,France,Ordinateur,3,São Paulo,0
+15838.54,17:52,Carte bancaire,Brésil,ATM,3,Paris,0
+14439.18,12:43,En ligne,France,Tablette,2,Paris,0
+4177.27,19:06,Carte bancaire,Brésil,Ordinateur,1,São Paulo,0
+6168.92,00:10,Cryptomonnaie,France,ATM,4,São Paulo,0
+2995.11,11:51,Carte bancaire,France,Tablette,3,Rabat,0
+11515.02,00:20,Virement,Maroc,Mobile,3,Pékin,0
+12394.06,14:42,En ligne,Maroc,ATM,3,Rabat,0
+17406.03,11:12,Cryptomonnaie,États-Unis,Ordinateur,5,Pékin,0
+10984.88,18:08,Carte bancaire,Chine,Tablette,4,Pékin,1
+16842.76,00:32,Carte bancaire,États-Unis,Tablette,5,São Paulo,0
+11964.03,16:34,Carte bancaire,France,Mobile,2,Casablanca,1
+15742.16,14:53,Espèces,France,Tablette,3,São Paulo,0
+6381.13,21:15,Espèces,France,ATM,2,New York,0
+9234.02,17:35,Espèces,États-Unis,Ordinateur,1,Paris,0
+12370.83,04:49,Cryptomonnaie,Chine,Mobile,1,Casablanca,0
+7113.96,15:49,Espèces,Maroc,Mobile,5,Paris,0
+5811.88,11:13,Carte bancaire,France,Ordinateur,3,São Paulo,1
+4090.92,18:10,Espèces,Brésil,ATM,5,Paris,0
+18987.52,20:04,Cryptomonnaie,Brésil,Ordinateur,3,New York,0
+16920.32,11:24,Virement,Chine,ATM,4,Pékin,0
+18463.37,19:10,En ligne,France,ATM,3,São Paulo,0
+2235.69,22:14,En ligne,États-Unis,Ordinateur,1,Casablanca,0
+18650.47,00:50,En ligne,Maroc,ATM,1,São Paulo,0
+5873.25,00:12,Virement,États-Unis,Ordinateur,5,São Paulo,1
+4548.18,16:28,En ligne,Chine,ATM,3,New York,1
+1176.01,14:49,Espèces,Brésil,Mobile,4,Rabat,0
+5625.89,03:00,Cryptomonnaie,États-Unis,Mobile,3,Rabat,0
+4044.44,00:13,En ligne,France,Tablette,2,Rabat,0
+11303.4,17:58,Espèces,Brésil,ATM,4,Pékin,0
+1121.75,02:31,Carte bancaire,Brésil,ATM,4,Pékin,0
+17760.61,02:09,Cryptomonnaie,Chine,Mobile,1,São Paulo,0
+4761.21,16:12,En ligne,Brésil,ATM,4,Paris,0
+2928.84,19:48,Carte bancaire,Chine,Mobile,4,Pékin,0
+4691.55,22:13,Cryptomonnaie,États-Unis,Mobile,1,Rabat,0
+5026.02,21:02,Carte bancaire,Brésil,ATM,1,Casablanca,0
+10795.21,17:04,Cryptomonnaie,Chine,Tablette,1,Casablanca,0
+16484.21,23:57,Espèces,Brésil,Tablette,4,Paris,0
+1367.34,04:13,Espèces,France,Mobile,4,Casablanca,0
+8767.05,03:34,Espèces,Chine,Mobile,5,New York,1
+902.63,02:55,Virement,Brésil,ATM,5,Pékin,0
+6937.19,11:43,Carte bancaire,Maroc,ATM,5,Pékin,0
+12328.74,11:34,Virement,Maroc,Ordinateur,2,Casablanca,0
+17008.68,05:04,Virement,Brésil,ATM,1,Casablanca,0
+18333.33,02:49,En ligne,Chine,Tablette,1,Pékin,0
+9675.29,13:28,Carte bancaire,États-Unis,ATM,5,São Paulo,0
+2164.87,13:11,Cryptomonnaie,Chine,ATM,2,Casablanca,0
+6372.88,00:21,Carte bancaire,France,Ordinateur,1,Rabat,0
+11415.04,16:13,Espèces,États-Unis,Ordinateur,2,Rabat,1
+19335.59,06:41,Virement,Maroc,Ordinateur,1,São Paulo,0
+2847.49,20:45,Espèces,Chine,ATM,5,New York,0
+69.07,10:25,Cryptomonnaie,Brésil,Ordinateur,1,Paris,0
+18073.7,02:04,Espèces,États-Unis,ATM,2,Paris,0
+14565.74,13:52,Carte bancaire,Brésil,Tablette,3,Paris,0
+2696.55,12:40,Carte bancaire,France,Mobile,1,Paris,0
+1485.07,06:04,En ligne,France,Mobile,1,São Paulo,0
+17049.64,06:10,En ligne,Maroc,Ordinateur,4,Rabat,0
+5867.17,14:13,Virement,Maroc,Mobile,1,New York,0
+6340.97,07:18,Cryptomonnaie,France,Mobile,3,Casablanca,0
+9745.91,03:52,Cryptomonnaie,États-Unis,Tablette,3,Pékin,0
+15497.26,02:06,Virement,Chine,Ordinateur,2,Casablanca,0
+12977.72,13:25,Carte bancaire,France,Tablette,1,Rabat,0
+10024.04,13:57,En ligne,France,Ordinateur,4,Casablanca,0
+9606.57,05:23,Espèces,France,Mobile,3,São Paulo,0
+1475.39,14:54,Carte bancaire,États-Unis,ATM,4,São Paulo,0
+16250.55,02:37,Cryptomonnaie,France,Ordinateur,3,Paris,0
+13664.3,18:56,Cryptomonnaie,Maroc,Ordinateur,4,Pékin,0
+4688.62,21:01,Espèces,Chine,Tablette,1,Pékin,0
+13374.75,03:24,En ligne,Chine,Tablette,1,Pékin,0
+19444.84,05:28,Espèces,Maroc,Ordinateur,4,São Paulo,0
+15133.61,09:21,Cryptomonnaie,États-Unis,Mobile,5,Pékin,1
+13150.92,06:31,En ligne,France,Tablette,3,Paris,0
+9628.88,01:46,Carte bancaire,France,ATM,2,Paris,0
+15275.87,00:16,Espèces,France,Mobile,4,Pékin,0
+747.45,21:35,Espèces,Chine,Mobile,5,Paris,0
+6255.35,20:27,Carte bancaire,Chine,Tablette,1,Pékin,1
+11599.48,23:35,Cryptomonnaie,France,Tablette,1,New York,0
+14850.57,13:55,Cryptomonnaie,France,Ordinateur,1,Pékin,0
+4594.53,11:00,Espèces,Brésil,Mobile,3,Pékin,0
+4168.47,23:12,Espèces,Chine,Tablette,5,São Paulo,0
+3183.83,12:41,Carte bancaire,Maroc,Mobile,2,Pékin,0
+15123.46,17:05,Virement,Chine,Tablette,1,Paris,0
+15019.66,05:59,Virement,Brésil,ATM,2,Pékin,0
+3769.31,09:52,Espèces,États-Unis,Tablette,5,São Paulo,0
+12745.11,04:37,Carte bancaire,Chine,ATM,1,São Paulo,1
+18152.78,17:14,Virement,France,Ordinateur,4,New York,1
+15924.39,18:21,Carte bancaire,Chine,Ordinateur,4,Rabat,0
+16227.19,23:01,Carte bancaire,Maroc,Tablette,4,New York,0
+19818.9,07:10,Espèces,États-Unis,Tablette,1,São Paulo,0
+18071.47,17:47,En ligne,Chine,Mobile,5,Rabat,0
+15221.07,09:14,En ligne,France,Mobile,5,Paris,0
+14757.39,21:06,Espèces,France,ATM,3,Casablanca,0
+8892.84,05:12,Espèces,France,ATM,4,Casablanca,0
+11837.93,09:12,En ligne,France,ATM,5,Pékin,0
+7049.31,21:50,Cryptomonnaie,Brésil,Mobile,1,Rabat,0
+4076.79,22:56,Cryptomonnaie,Brésil,Tablette,3,São Paulo,0
+11284.22,07:34,En ligne,Brésil,ATM,3,São Paulo,0
+10030.25,02:44,En ligne,Maroc,Ordinateur,4,Pékin,0
+16684.9,21:42,Virement,Maroc,ATM,5,Paris,0
+13212.91,13:39,Espèces,France,ATM,5,Rabat,0
+18544.34,03:14,Carte bancaire,Maroc,Mobile,4,New York,1
+3270.36,16:36,Carte bancaire,Chine,Tablette,3,São Paulo,0
+18209.95,01:17,Carte bancaire,Brésil,Tablette,3,São Paulo,0
+10930.41,10:40,En ligne,France,Mobile,1,São Paulo,0
+7882.6,11:02,Cryptomonnaie,France,Tablette,1,Paris,1
+14109.66,11:23,En ligne,Brésil,Ordinateur,5,New York,0
+12405.09,01:05,Virement,Chine,Mobile,4,Pékin,0
+18683.17,17:06,Cryptomonnaie,Chine,Tablette,3,São Paulo,0
+13910.04,13:06,En ligne,États-Unis,Mobile,3,Paris,0
+9778.33,20:22,Espèces,Brésil,Tablette,2,Paris,0
+4835.81,05:52,Carte bancaire,États-Unis,ATM,2,New York,0
+18581.0,10:16,Espèces,France,ATM,1,São Paulo,0
+19721.14,00:02,Virement,États-Unis,Ordinateur,5,Pékin,0
+8340.12,14:25,Espèces,États-Unis,Ordinateur,4,Casablanca,0
+14058.75,21:59,Cryptomonnaie,France,ATM,5,Pékin,0
+19096.18,18:15,En ligne,États-Unis,Ordinateur,4,Casablanca,0
+14719.62,08:23,Carte bancaire,Brésil,Ordinateur,3,Pékin,0
+5286.63,09:06,Virement,France,ATM,4,São Paulo,1
+15736.55,15:21,Cryptomonnaie,Chine,Tablette,3,Casablanca,0
+3386.06,18:36,Espèces,France,Mobile,3,Pékin,0
+16617.58,00:33,Cryptomonnaie,Maroc,Tablette,5,Paris,0
+15237.85,06:20,Espèces,États-Unis,Mobile,3,São Paulo,0
+8926.02,16:21,En ligne,Brésil,Mobile,1,Paris,0
+18016.49,23:41,Virement,Chine,Tablette,3,New York,0
+10258.25,04:05,Carte bancaire,Chine,Ordinateur,1,Paris,0
+17193.98,06:01,Cryptomonnaie,Brésil,Ordinateur,5,Paris,0
+8443.7,05:26,Carte bancaire,France,Mobile,2,Rabat,0
+16619.96,09:10,Cryptomonnaie,France,ATM,4,Rabat,0
+14527.42,06:03,Cryptomonnaie,Maroc,Ordinateur,5,New York,1
+5558.71,22:55,Virement,Maroc,Tablette,3,Paris,0
+17394.28,11:27,En ligne,Chine,Ordinateur,1,Paris,1
+2932.22,21:26,En ligne,Brésil,Mobile,2,Pékin,0
+17636.65,23:30,Carte bancaire,Maroc,Ordinateur,5,New York,0
+8928.38,17:13,Carte bancaire,États-Unis,Ordinateur,2,New York,0
+3411.11,19:21,En ligne,Brésil,Ordinateur,5,Rabat,0
+14024.42,17:46,Carte bancaire,Brésil,Mobile,2,São Paulo,0
+14866.84,12:27,Virement,Maroc,ATM,3,São Paulo,0
+6648.1,10:50,Carte bancaire,Chine,Mobile,2,New York,0
+8405.64,09:02,Virement,Brésil,Tablette,4,Paris,1
+4064.96,02:26,En ligne,Chine,Mobile,2,Rabat,0
+19044.29,11:54,Espèces,Maroc,ATM,5,Paris,0
+4620.62,11:31,En ligne,Maroc,Ordinateur,1,Rabat,0
+11601.37,23:35,Espèces,Brésil,ATM,1,Rabat,0
+15932.12,18:52,Virement,Brésil,Mobile,4,Rabat,0
+6745.17,17:49,Espèces,France,Tablette,5,Rabat,0
+19639.3,10:39,Virement,Chine,ATM,2,São Paulo,0
+12349.46,11:33,Carte bancaire,France,ATM,2,Rabat,0
+16571.98,22:09,Carte bancaire,Chine,ATM,4,New York,0
+13999.48,15:53,Virement,Chine,Tablette,1,Rabat,0
+18690.66,19:50,Carte bancaire,Maroc,Ordinateur,2,Casablanca,0
+18235.16,02:39,Virement,France,ATM,1,Pékin,0
+1693.96,23:47,En ligne,France,Tablette,5,São Paulo,0
+12270.79,11:11,Virement,Brésil,Mobile,4,Paris,0
+3314.42,17:15,Espèces,Chine,Tablette,4,Rabat,0
+17697.51,04:52,Virement,Chine,Tablette,3,Rabat,1
+14147.98,09:32,Carte bancaire,Maroc,ATM,5,São Paulo,0
+5010.72,08:53,Virement,Chine,Mobile,4,Casablanca,0
+13591.66,06:47,Virement,Brésil,Mobile,4,Pékin,0
+18257.36,15:56,En ligne,Brésil,Ordinateur,5,New York,0
+12695.23,03:14,Espèces,France,Tablette,2,Rabat,0
+4429.18,11:20,Carte bancaire,Brésil,Ordinateur,1,Paris,0
+13404.5,04:47,Virement,Brésil,Ordinateur,5,Paris,0
+13855.9,02:00,En ligne,Brésil,Ordinateur,5,Casablanca,0
+9627.66,06:02,Virement,Maroc,Mobile,4,Pékin,0
+12731.4,22:10,Cryptomonnaie,Maroc,Ordinateur,1,São Paulo,0
+8897.32,21:43,Virement,Brésil,ATM,3,Casablanca,0
+8877.04,02:38,Espèces,États-Unis,Tablette,3,New York,0
+10256.65,23:44,Carte bancaire,Chine,Tablette,3,Pékin,0
+19535.99,17:49,En ligne,France,Mobile,1,Pékin,0
+3542.19,15:52,Espèces,Brésil,Ordinateur,4,São Paulo,0
+11119.64,15:21,Cryptomonnaie,Maroc,Tablette,1,Paris,0
+13957.79,09:36,En ligne,États-Unis,Ordinateur,1,Casablanca,1
+590.45,14:38,Cryptomonnaie,États-Unis,Mobile,2,Rabat,0
+12588.41,02:47,Cryptomonnaie,États-Unis,ATM,3,Rabat,0
+10643.91,13:14,En ligne,Brésil,Ordinateur,4,São Paulo,0
+9661.8,19:59,Virement,France,ATM,1,Rabat,0
+3251.5,22:03,Carte bancaire,États-Unis,ATM,4,São Paulo,0
+12013.64,14:34,Virement,Chine,Mobile,1,Paris,0
+4581.35,06:31,Espèces,Brésil,Tablette,1,São Paulo,0
+2009.59,09:24,Carte bancaire,Maroc,ATM,2,Casablanca,0
+2346.14,02:43,Cryptomonnaie,Brésil,Ordinateur,2,Paris,0
+19227.96,21:23,En ligne,Chine,Tablette,2,Pékin,0
+18976.97,15:59,En ligne,États-Unis,Mobile,1,São Paulo,0
+5566.2,02:27,Virement,Brésil,ATM,5,São Paulo,0
+223.58,17:08,Espèces,France,Tablette,1,Rabat,0
+7500.42,20:56,Virement,France,Tablette,1,Paris,0
+16050.2,21:36,Carte bancaire,Maroc,Tablette,2,Casablanca,0
+3910.73,07:16,En ligne,Brésil,Ordinateur,5,Paris,0
+17850.63,06:22,Espèces,Chine,ATM,5,Paris,0
+4045.56,00:54,En ligne,États-Unis,Tablette,3,Paris,0
+9199.42,22:26,Virement,Brésil,Tablette,3,Paris,0
+16201.21,02:48,Carte bancaire,Maroc,Mobile,1,New York,0
+6455.18,03:51,En ligne,États-Unis,Mobile,4,Rabat,1
+14193.6,12:18,Cryptomonnaie,Chine,Mobile,3,São Paulo,0
+1306.33,10:59,Virement,Brésil,Ordinateur,4,São Paulo,0
+9949.68,09:09,Cryptomonnaie,Chine,Mobile,3,Paris,0
+16235.47,09:29,Espèces,Chine,ATM,2,Casablanca,1
+2177.24,15:15,En ligne,Brésil,Ordinateur,2,Paris,0
+5749.35,01:03,Cryptomonnaie,Chine,ATM,5,Paris,1
+18731.15,05:09,Carte bancaire,France,Ordinateur,4,Pékin,0
+15387.51,22:30,Carte bancaire,États-Unis,ATM,5,São Paulo,0
+7212.84,12:38,En ligne,Chine,Mobile,1,Casablanca,0
+1835.18,03:47,Carte bancaire,Maroc,Ordinateur,2,Rabat,0
+15196.29,19:51,En ligne,Brésil,Mobile,3,Casablanca,0
+6966.81,17:39,En ligne,Maroc,Tablette,3,São Paulo,0
+8634.79,17:33,Espèces,France,Mobile,4,Pékin,0
+14392.69,02:35,Espèces,France,Tablette,1,São Paulo,0
+16518.72,11:53,Carte bancaire,Brésil,Mobile,3,São Paulo,0
+5130.53,14:32,Cryptomonnaie,États-Unis,Ordinateur,2,Rabat,0
+3156.65,07:27,Espèces,Maroc,ATM,4,São Paulo,0
+4621.32,14:46,En ligne,États-Unis,ATM,3,New York,0
+13972.05,00:41,Cryptomonnaie,Brésil,Mobile,4,Rabat,0
+10515.11,19:51,Cryptomonnaie,Maroc,Ordinateur,5,São Paulo,0
+2003.92,07:54,Virement,Chine,Ordinateur,4,São Paulo,0
+4934.91,00:38,En ligne,États-Unis,Tablette,5,Rabat,0
+14498.44,09:20,Espèces,Chine,ATM,1,Pékin,0
+18024.63,00:51,Espèces,Brésil,ATM,5,Pékin,1
+4083.86,13:37,Virement,France,Mobile,1,New York,0
+18455.91,21:54,Carte bancaire,Chine,Mobile,2,São Paulo,0
+17056.14,13:11,Cryptomonnaie,États-Unis,Tablette,5,Pékin,0
+1752.2,11:16,Cryptomonnaie,Brésil,ATM,2,São Paulo,0
+14644.18,21:11,Espèces,France,Tablette,3,New York,0
+16634.36,23:19,Espèces,Chine,Mobile,3,São Paulo,0
+12334.32,23:10,Carte bancaire,Maroc,ATM,2,Paris,0
+4502.04,11:42,Virement,États-Unis,Ordinateur,2,Rabat,0
+14481.93,15:30,En ligne,Brésil,Tablette,2,Rabat,0
+6238.29,14:27,Carte bancaire,Chine,Mobile,3,New York,0
+4594.27,00:37,En ligne,Chine,Ordinateur,1,Casablanca,0
+15576.56,19:53,Carte bancaire,France,Ordinateur,1,Paris,0
+5013.03,15:14,En ligne,Maroc,ATM,4,Rabat,0
+4754.12,00:31,Espèces,États-Unis,ATM,5,Casablanca,0
+24.3,18:17,Carte bancaire,Maroc,ATM,4,New York,0
+1197.57,08:19,Espèces,États-Unis,Ordinateur,2,Rabat,0
+16910.93,11:21,Espèces,Brésil,ATM,3,New York,1
+945.45,22:59,Cryptomonnaie,Chine,ATM,2,New York,0
+12245.72,18:51,Cryptomonnaie,Maroc,Ordinateur,1,New York,0
+2537.0,19:15,En ligne,Chine,ATM,3,Paris,0
+8155.62,10:02,Virement,Maroc,Ordinateur,1,New York,0
+14871.69,07:08,Cryptomonnaie,Chine,Tablette,4,Pékin,0
+3893.97,07:02,Cryptomonnaie,Chine,ATM,2,São Paulo,0
+9817.16,17:43,Virement,Chine,Ordinateur,5,São Paulo,0
+10982.92,09:55,En ligne,Brésil,Tablette,2,New York,0
+440.17,01:23,Espèces,États-Unis,Mobile,1,São Paulo,0
+13691.2,19:18,Cryptomonnaie,Brésil,Ordinateur,5,Pékin,1
+5044.93,03:03,Cryptomonnaie,France,Ordinateur,4,Paris,0
+14746.86,09:18,Cryptomonnaie,États-Unis,Mobile,5,São Paulo,0
+4975.6,15:07,Virement,Brésil,Ordinateur,5,São Paulo,0
+16991.43,06:04,Virement,Maroc,ATM,1,Casablanca,0
+19643.2,02:06,Virement,France,Ordinateur,3,Casablanca,0
+2612.05,20:30,En ligne,Brésil,ATM,4,São Paulo,1
+12939.39,11:50,Espèces,Brésil,ATM,3,São Paulo,1
+15910.52,13:06,Virement,Chine,Mobile,4,Pékin,1
+9802.56,15:18,Espèces,Chine,Ordinateur,2,Casablanca,0
+12910.75,16:31,Espèces,États-Unis,ATM,4,Casablanca,0
+6085.25,17:49,Virement,Maroc,Tablette,4,São Paulo,0
+15319.13,04:48,Cryptomonnaie,France,Ordinateur,5,Rabat,0
+13490.53,03:34,Cryptomonnaie,États-Unis,Mobile,2,São Paulo,0
+8198.78,14:19,Espèces,France,ATM,5,New York,0
+17824.48,02:47,Carte bancaire,Maroc,Mobile,5,Casablanca,1
+918.34,19:41,Cryptomonnaie,France,ATM,2,Paris,0
+14283.81,02:41,En ligne,Brésil,Tablette,2,Pékin,0
+15385.93,02:05,Virement,Brésil,ATM,2,Paris,0
+7040.75,19:23,Virement,Maroc,Mobile,2,Rabat,0
+13925.49,23:40,Cryptomonnaie,France,Ordinateur,5,Rabat,0
+16264.74,09:17,En ligne,États-Unis,Ordinateur,3,Rabat,0
+4756.09,02:28,Virement,France,Tablette,3,Paris,1
+15850.6,21:50,En ligne,Chine,Ordinateur,3,Pékin,0
+5222.39,11:29,Cryptomonnaie,Maroc,ATM,3,Rabat,0
+12319.83,10:32,En ligne,France,Tablette,1,São Paulo,0
+11135.85,09:54,Espèces,France,Ordinateur,3,Pékin,0
+335.43,10:51,En ligne,France,Tablette,2,Rabat,0
+16665.38,12:43,Virement,France,Mobile,4,Rabat,0
+5014.66,19:28,Carte bancaire,France,ATM,4,São Paulo,0
+7143.92,13:52,Espèces,États-Unis,Ordinateur,2,Pékin,0
+6413.5,14:15,En ligne,Maroc,ATM,4,São Paulo,0
+12223.59,18:10,En ligne,France,Tablette,1,Pékin,0
+6472.99,02:53,Espèces,France,Mobile,4,Pékin,0
+18670.13,07:53,Carte bancaire,États-Unis,Tablette,3,Pékin,0
+14797.9,21:41,Espèces,France,Mobile,5,Pékin,1
+3973.89,01:32,Carte bancaire,États-Unis,Mobile,3,São Paulo,0
+507.16,01:50,Virement,États-Unis,Tablette,3,Pékin,0
+11774.97,01:44,Espèces,Maroc,Ordinateur,3,New York,0
+6107.61,08:44,Virement,France,Ordinateur,5,São Paulo,1
+10974.65,07:14,Espèces,Chine,Mobile,2,São Paulo,0
+12117.27,11:02,Carte bancaire,Brésil,Ordinateur,5,Pékin,0
+15249.5,03:57,En ligne,États-Unis,ATM,2,New York,0
+9737.62,22:30,Cryptomonnaie,États-Unis,Tablette,4,São Paulo,0
+16456.2,09:44,En ligne,Maroc,Tablette,1,Pékin,0
+14391.72,02:47,Virement,Brésil,Ordinateur,1,Casablanca,0
+933.36,08:31,Cryptomonnaie,France,ATM,2,New York,0
+9273.78,11:10,Carte bancaire,Maroc,ATM,3,Paris,0
+1171.42,03:04,Cryptomonnaie,Maroc,Ordinateur,3,Paris,1
+14704.16,09:27,Cryptomonnaie,France,Ordinateur,3,New York,0
+7350.9,02:07,En ligne,Maroc,Ordinateur,1,New York,0
+9994.84,17:16,Espèces,Brésil,Tablette,1,Paris,0
+1168.7,15:57,Espèces,Brésil,Tablette,5,Pékin,1
+6739.74,08:24,Virement,Brésil,Mobile,3,Paris,0
+14130.0,10:14,Virement,Chine,ATM,3,New York,0
+14890.34,17:08,En ligne,Maroc,ATM,5,Rabat,0
+11917.69,08:43,Cryptomonnaie,Chine,ATM,1,New York,0
+11661.91,00:24,Virement,États-Unis,Mobile,3,Pékin,0
+5350.9,14:29,Cryptomonnaie,Maroc,Tablette,2,Rabat,0
+19537.14,02:49,Carte bancaire,Maroc,Tablette,4,Rabat,0
+7128.94,18:09,Carte bancaire,Maroc,Ordinateur,3,Rabat,0
+16209.28,04:44,Virement,Maroc,Mobile,5,Paris,0
+12189.28,21:46,Cryptomonnaie,Maroc,Ordinateur,2,Pékin,0
+19702.19,12:23,Virement,France,ATM,4,Paris,0
+10418.73,09:55,Cryptomonnaie,États-Unis,ATM,3,Pékin,0
+11843.26,21:20,Carte bancaire,Chine,Mobile,3,Pékin,0
+19473.15,09:45,En ligne,Chine,ATM,5,São Paulo,0
+10770.93,09:45,Espèces,Maroc,Mobile,2,Pékin,0
+2052.23,17:00,Carte bancaire,Chine,Mobile,2,Pékin,0
+19944.72,17:11,Carte bancaire,France,Mobile,2,New York,0
+17757.26,05:22,Espèces,Chine,Mobile,2,New York,0
+16123.43,00:39,En ligne,Brésil,Ordinateur,3,Casablanca,0
+11283.88,22:11,Carte bancaire,Chine,Mobile,3,Paris,0
+6645.17,19:43,Espèces,Chine,ATM,3,São Paulo,0
+16903.53,00:58,Virement,France,Mobile,2,Casablanca,0
+925.63,23:53,Carte bancaire,Chine,Mobile,2,Paris,1
+7200.42,16:21,En ligne,Chine,Ordinateur,5,Paris,0
+2363.13,16:54,Espèces,Maroc,ATM,4,São Paulo,0
+17857.67,20:28,En ligne,États-Unis,ATM,4,Casablanca,0
+18135.56,08:48,En ligne,Brésil,Tablette,1,São Paulo,0
+9991.31,07:49,En ligne,Brésil,Mobile,4,Rabat,0
+15576.57,22:51,Virement,Maroc,ATM,1,Rabat,0
+4336.28,14:08,Carte bancaire,Maroc,ATM,5,Rabat,0
+10474.73,08:56,Carte bancaire,Maroc,Mobile,3,São Paulo,0
+10366.6,16:57,Carte bancaire,Brésil,Tablette,4,New York,0
+2757.15,22:14,Carte bancaire,États-Unis,Tablette,1,São Paulo,0
+4159.7,03:44,En ligne,Chine,Tablette,3,Paris,0
+12643.42,20:29,Cryptomonnaie,Maroc,Tablette,1,Casablanca,0
+2587.42,20:57,Carte bancaire,Maroc,Tablette,3,São Paulo,0
+591.82,20:36,En ligne,Chine,ATM,4,Paris,0
+7983.66,18:14,En ligne,France,Ordinateur,5,Paris,0
+12227.21,01:34,Espèces,Brésil,Tablette,2,Rabat,0
+17703.31,17:42,Espèces,Maroc,Mobile,4,Casablanca,1
+11859.33,05:36,En ligne,États-Unis,ATM,1,Casablanca,0
+15612.68,03:17,Espèces,Maroc,ATM,4,São Paulo,0
+14933.97,14:35,Espèces,Brésil,Tablette,3,Rabat,0
+15303.63,12:27,Espèces,Brésil,Ordinateur,3,New York,0
+16912.11,22:46,Virement,États-Unis,Tablette,4,São Paulo,0
+16866.57,12:43,Espèces,Maroc,Mobile,2,Pékin,1
+9421.5,00:11,Cryptomonnaie,Maroc,ATM,1,Pékin,0
+6718.06,06:51,Carte bancaire,Chine,Ordinateur,3,Casablanca,0
+18885.06,18:28,Virement,Chine,Mobile,2,São Paulo,0
+13153.81,02:09,Virement,Chine,Tablette,2,São Paulo,0
+14678.56,14:27,Espèces,Brésil,ATM,5,Paris,0
+1436.14,02:13,Espèces,Brésil,Mobile,5,New York,0
+19810.41,16:30,En ligne,Chine,Tablette,1,São Paulo,0
+3785.03,00:22,Virement,Chine,Ordinateur,1,New York,0
+7082.45,13:03,Espèces,France,ATM,3,Pékin,0
+16966.48,16:08,En ligne,États-Unis,Mobile,1,New York,1
+630.4,12:11,Carte bancaire,Brésil,Mobile,3,Rabat,0
+17159.42,23:12,Espèces,États-Unis,Tablette,2,Rabat,0
+2407.18,03:19,Cryptomonnaie,Chine,Tablette,4,Casablanca,0
+3915.34,05:30,Carte bancaire,France,ATM,2,New York,0
+16345.68,18:35,Espèces,États-Unis,Ordinateur,5,New York,0
+11235.38,06:46,En ligne,Chine,ATM,5,Paris,0
+17881.91,03:23,Carte bancaire,Maroc,ATM,1,Paris,0
+15942.48,15:22,En ligne,France,Tablette,5,Casablanca,0
+145.67,17:37,Cryptomonnaie,France,ATM,5,Paris,0
+7307.35,22:58,Espèces,Brésil,ATM,1,Casablanca,1
+5927.21,05:42,En ligne,Chine,Ordinateur,5,Pékin,0
+2528.38,10:38,Carte bancaire,France,Ordinateur,1,Casablanca,1
+13992.11,15:27,Virement,Maroc,Ordinateur,3,Rabat,0
+9228.25,09:55,En ligne,France,Ordinateur,2,Paris,0
+3468.13,08:17,En ligne,France,Ordinateur,4,New York,0
+10398.94,00:02,Espèces,Maroc,Mobile,3,Pékin,0
+13587.99,05:19,Carte bancaire,Brésil,ATM,4,Casablanca,0
+10502.2,01:32,En ligne,France,Mobile,4,São Paulo,0
+3509.82,00:16,Carte bancaire,Maroc,Ordinateur,5,Rabat,0
+8442.57,19:26,Virement,États-Unis,Ordinateur,2,New York,0
+18185.7,13:42,Cryptomonnaie,Chine,Ordinateur,1,Rabat,1
+19741.53,18:48,Espèces,Chine,Mobile,4,Paris,0
+9154.16,13:30,Carte bancaire,États-Unis,Tablette,4,New York,0
+18628.38,03:21,Cryptomonnaie,France,Mobile,4,Paris,0
+9184.14,04:13,Virement,Brésil,ATM,2,Casablanca,0
+15968.0,00:25,Virement,Chine,Ordinateur,2,Paris,0
+4498.3,04:38,Cryptomonnaie,Maroc,ATM,5,Rabat,0
+9072.47,16:41,Carte bancaire,États-Unis,Mobile,4,Paris,1
+19713.24,10:50,Virement,États-Unis,ATM,4,Rabat,0
+1815.5,11:55,Cryptomonnaie,France,Mobile,5,Casablanca,0
+4511.15,02:09,Carte bancaire,Maroc,ATM,3,New York,0
+7952.16,06:47,En ligne,États-Unis,Tablette,5,São Paulo,0
+15348.85,20:21,En ligne,Maroc,Tablette,2,Casablanca,0
+4760.08,13:45,Virement,Chine,Mobile,5,Pékin,0
+3839.51,22:39,Cryptomonnaie,Chine,Ordinateur,2,São Paulo,0
+12486.5,21:07,Carte bancaire,États-Unis,Mobile,2,New York,0
+16530.18,03:33,Espèces,Brésil,Tablette,4,Rabat,0
+17047.77,20:38,En ligne,Brésil,ATM,3,Paris,0
+11288.74,01:33,Espèces,États-Unis,Mobile,5,Pékin,0
+13985.34,13:15,Espèces,Maroc,Mobile,2,New York,0
+2685.88,00:59,En ligne,Brésil,Ordinateur,3,Casablanca,0
+10411.67,03:00,En ligne,Brésil,ATM,5,New York,0
+15636.42,20:46,Cryptomonnaie,États-Unis,Tablette,1,New York,0
+13203.91,08:56,Espèces,États-Unis,Ordinateur,4,Pékin,0
+2588.14,00:10,En ligne,France,Mobile,5,Casablanca,0
+6339.29,00:17,Espèces,Brésil,ATM,5,New York,0
+10646.77,06:15,Espèces,France,ATM,1,São Paulo,1
+5573.89,15:41,Cryptomonnaie,Maroc,ATM,2,New York,0
+2110.68,01:34,Virement,Maroc,ATM,1,Casablanca,0
+12828.89,23:51,Virement,Chine,Mobile,1,Casablanca,1
+17519.94,04:58,Virement,Maroc,ATM,1,Casablanca,0
+12626.38,10:55,Carte bancaire,États-Unis,Mobile,1,Casablanca,0
+13003.74,23:56,Carte bancaire,Chine,Ordinateur,5,Casablanca,0
+17074.16,03:30,En ligne,États-Unis,Ordinateur,5,Rabat,0
+3846.11,16:58,Espèces,États-Unis,Tablette,2,Paris,0
+12247.37,06:09,Espèces,États-Unis,Ordinateur,5,New York,0
+7328.25,21:54,Cryptomonnaie,États-Unis,Ordinateur,5,New York,0
+4868.89,23:53,Carte bancaire,États-Unis,Mobile,3,Rabat,0
+18527.52,09:53,Carte bancaire,Brésil,Mobile,4,Casablanca,0
+7852.16,06:19,Carte bancaire,Maroc,Mobile,5,New York,0
+4078.65,07:07,En ligne,France,Tablette,5,São Paulo,1
+7251.64,05:12,En ligne,États-Unis,ATM,2,New York,0
+13061.95,20:48,Carte bancaire,France,Mobile,5,Paris,0
+12245.2,20:47,Virement,Chine,Mobile,2,Pékin,0
+203.31,20:29,Carte bancaire,Chine,Ordinateur,1,New York,0
+10439.41,23:01,Carte bancaire,Chine,Mobile,1,Paris,0
+3178.68,15:03,En ligne,France,Ordinateur,4,Paris,0
+2778.77,06:18,En ligne,États-Unis,Tablette,5,Pékin,1
+7357.26,07:10,En ligne,France,Ordinateur,3,New York,0
+15417.26,22:48,En ligne,France,Ordinateur,5,Rabat,0
+499.14,10:08,Cryptomonnaie,Chine,ATM,3,Paris,1
+1070.7,14:34,Carte bancaire,États-Unis,Mobile,5,Rabat,0
+17612.21,10:20,En ligne,Maroc,Tablette,5,São Paulo,0
+11542.36,16:34,Carte bancaire,Brésil,Tablette,5,Casablanca,0
+2803.59,22:30,Virement,Chine,Ordinateur,4,New York,0
+14713.17,18:06,En ligne,Maroc,ATM,4,Paris,0
+6052.38,18:58,Espèces,États-Unis,Mobile,3,Paris,0
+16282.65,23:43,Espèces,France,Mobile,2,New York,0
+16569.96,13:41,Carte bancaire,États-Unis,Ordinateur,1,Pékin,0
+1658.84,14:56,Carte bancaire,Brésil,Mobile,4,Rabat,1
+11864.75,21:40,Cryptomonnaie,Brésil,ATM,3,São Paulo,1
+12235.61,14:09,Carte bancaire,Brésil,Ordinateur,3,Rabat,0
+18940.04,16:06,Virement,Maroc,Mobile,4,Paris,1
+5816.2,22:43,Carte bancaire,Brésil,Mobile,3,New York,1
+13105.21,15:53,Espèces,Maroc,Tablette,1,New York,0
+7316.6,02:08,Cryptomonnaie,Maroc,Mobile,2,Paris,0
+19160.54,01:11,Virement,France,ATM,5,Paris,0
+10463.1,05:10,Cryptomonnaie,Brésil,Tablette,1,New York,0
+16161.44,18:27,Cryptomonnaie,Chine,ATM,2,Pékin,0
+10901.34,02:57,Virement,France,Tablette,5,Casablanca,0
+15824.48,03:11,En ligne,Maroc,Mobile,5,New York,0
+16734.51,02:17,Cryptomonnaie,Maroc,Mobile,2,New York,0
+3756.35,06:52,Espèces,France,Ordinateur,2,Casablanca,0
+15389.24,23:31,En ligne,Maroc,Tablette,1,New York,0
+5402.23,04:16,Cryptomonnaie,Chine,ATM,4,Paris,1
+12385.97,16:39,En ligne,États-Unis,Mobile,5,São Paulo,0
+18397.92,01:15,Carte bancaire,États-Unis,Ordinateur,4,Rabat,0
+7353.23,12:38,Cryptomonnaie,France,ATM,5,Pékin,0
+15931.1,07:07,Espèces,États-Unis,ATM,1,Rabat,0
+2724.76,01:19,Virement,France,Ordinateur,3,Paris,0
+14164.84,13:05,Espèces,France,Ordinateur,3,Pékin,0
+15275.75,16:01,Cryptomonnaie,États-Unis,Mobile,1,Casablanca,0
+3133.14,03:21,Virement,Brésil,Tablette,1,São Paulo,1
+7183.03,16:04,Virement,États-Unis,Tablette,3,Rabat,0
+3359.08,04:49,Espèces,Chine,Tablette,5,Paris,0
+13607.89,18:25,En ligne,États-Unis,Tablette,5,São Paulo,0
+14983.19,23:36,Cryptomonnaie,États-Unis,ATM,3,Paris,0
+4468.16,13:16,Cryptomonnaie,Brésil,Ordinateur,1,São Paulo,1
+12770.26,12:35,Carte bancaire,France,Mobile,4,Casablanca,1
+7814.59,23:33,Virement,Chine,Mobile,4,Rabat,1
+17332.23,13:45,Espèces,France,Ordinateur,2,São Paulo,0
+3643.54,14:34,En ligne,France,Ordinateur,4,Paris,0
+3546.45,13:38,En ligne,États-Unis,Ordinateur,2,Pékin,0
+6159.4,09:24,En ligne,Maroc,ATM,3,Paris,0
+3787.29,15:37,Espèces,États-Unis,ATM,3,Pékin,0
+10762.94,13:47,Carte bancaire,France,ATM,4,New York,0
+7767.37,15:14,Cryptomonnaie,Chine,Ordinateur,3,New York,1
+6858.51,23:01,Carte bancaire,Chine,Ordinateur,2,Casablanca,0
+4154.75,04:39,Virement,Brésil,ATM,5,Pékin,0
+1268.33,10:52,Carte bancaire,Chine,Ordinateur,2,São Paulo,1
+5057.57,00:16,En ligne,Maroc,Ordinateur,3,Casablanca,0
+529.23,20:58,Virement,Chine,ATM,1,Paris,0
+10870.74,00:38,Cryptomonnaie,Brésil,Ordinateur,2,Pékin,0
+9320.04,07:08,Carte bancaire,Maroc,Tablette,1,Paris,0
+16593.24,19:34,Espèces,Brésil,ATM,5,Paris,0
+13712.39,08:41,Virement,Chine,Ordinateur,3,Pékin,0
+18219.49,17:56,Espèces,Brésil,Tablette,1,New York,0
+14927.73,04:45,Carte bancaire,Brésil,ATM,5,São Paulo,0
+2758.2,13:33,Carte bancaire,Maroc,Tablette,4,New York,0
+1700.53,00:34,Carte bancaire,France,Mobile,4,Rabat,0
+17713.94,23:24,En ligne,Chine,ATM,5,New York,0
+8507.65,08:03,Espèces,Brésil,ATM,4,Paris,0
+6964.45,12:05,Virement,États-Unis,Ordinateur,4,Paris,0
+12293.74,10:46,En ligne,Maroc,ATM,4,Rabat,0
+7439.19,18:26,En ligne,France,ATM,3,New York,0
+18995.94,22:36,Virement,États-Unis,Tablette,1,Paris,0
+12070.1,20:55,Virement,États-Unis,Ordinateur,4,Casablanca,0
+4426.47,05:30,Cryptomonnaie,France,Ordinateur,5,Paris,0
+1873.37,06:14,En ligne,Brésil,Mobile,3,Rabat,0
+1338.08,15:48,Cryptomonnaie,Brésil,Mobile,2,New York,0
+2935.91,05:48,En ligne,France,ATM,1,São Paulo,0
+18290.06,23:23,Cryptomonnaie,Chine,Tablette,2,Casablanca,0
+2066.5,10:54,Espèces,Chine,Tablette,4,São Paulo,0
+2640.67,23:51,En ligne,France,Tablette,4,Pékin,0
+2775.05,13:04,Virement,États-Unis,Tablette,4,Paris,1
+3819.27,06:09,Virement,Brésil,ATM,3,Rabat,1
+5147.7,05:44,Carte bancaire,Chine,Tablette,4,São Paulo,0
+19772.36,06:50,Carte bancaire,France,ATM,5,São Paulo,0
+12246.21,00:42,Virement,Maroc,Tablette,2,São Paulo,0
+10203.45,04:23,Carte bancaire,Maroc,Tablette,1,New York,0
+4616.68,00:17,Carte bancaire,États-Unis,Ordinateur,1,Rabat,0
+15020.86,05:45,Cryptomonnaie,Brésil,ATM,3,New York,0
+13902.44,17:13,En ligne,Brésil,ATM,4,New York,0
+1240.86,14:03,En ligne,Chine,Tablette,3,Casablanca,0
+2369.67,21:19,Cryptomonnaie,États-Unis,Ordinateur,2,São Paulo,0
+15264.2,00:56,Virement,Brésil,Ordinateur,1,Pékin,0
+7515.9,07:35,Carte bancaire,France,ATM,5,New York,0
+16808.77,00:34,Cryptomonnaie,Maroc,Tablette,5,New York,0
+15670.66,16:53,Espèces,Brésil,ATM,4,Casablanca,0
+12910.96,16:21,Virement,Chine,Tablette,2,São Paulo,0
+3454.94,00:38,Carte bancaire,Maroc,Mobile,3,Casablanca,0
+13223.31,01:02,Virement,Maroc,Mobile,1,São Paulo,0
+13571.47,09:50,Espèces,États-Unis,Mobile,4,New York,0
+10138.79,09:59,Virement,Maroc,Mobile,5,São Paulo,0
+11621.5,04:09,Espèces,États-Unis,Mobile,2,Casablanca,0
+1593.51,19:25,En ligne,Brésil,Tablette,4,São Paulo,0
+8360.58,05:22,Carte bancaire,France,Tablette,1,Rabat,1
+16523.6,19:06,Carte bancaire,États-Unis,ATM,4,New York,0
+18260.0,07:48,Carte bancaire,Brésil,Mobile,4,São Paulo,0
+3846.11,18:50,Cryptomonnaie,Chine,Ordinateur,3,New York,0
